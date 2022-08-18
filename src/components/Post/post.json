@@ -3,15 +3,15 @@
     "id": 1,
     "date": "08/17/2022",
     "title": "test post",
-    "img": ["public/images/681408539.894141.jpg", " ../../../../../public/images/IMG_2175.png"],
+    "img": ["images/681408539.894141.jpg", "images/IMG_2175.png"],
     "post_text": "An app where you can keep track of plants health and care schedule"
   },
   {
     "id": 2,
     "date": "08/17/2022",
-    "title": "test post 222222",
+    "title": "test post",
     "img": [
-      "public/images/IMG_2176.png"
+      "images/IMG_2176.png"
     ],
     "post_text": "An app where you can keep track of plants health and care schedule"
   }
